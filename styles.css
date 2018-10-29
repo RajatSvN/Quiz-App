@@ -1,0 +1,27 @@
+    .container{
+
+      text-align: center;
+
+    }
+
+    #quizContainer{
+       margin-top: 60px ;
+       height: 250px;
+       width: 500px;
+       background-color: #E9ECEF;
+       border-radius: 10%;
+    }
+     
+    .form-check{
+      text-align: left;
+    }
+
+    #next{
+      margin-top: 20px;
+    }
+    #start{
+      margin-top: 100px ;
+    }
+    #result{
+      margin-top: 100px;
+    }
